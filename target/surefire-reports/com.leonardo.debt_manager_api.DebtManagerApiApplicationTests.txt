@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.leonardo.debt_manager_api.DebtManagerApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.304 s -- in com.leonardo.debt_manager_api.DebtManagerApiApplicationTests

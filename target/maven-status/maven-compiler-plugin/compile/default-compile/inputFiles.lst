@@ -1,0 +1,12 @@
+C:\Users\Leonardo\Desktop\aplication divida\debt-manager-api\src\main\java\com\leonardo\debt_manager_api\controller\DividaController.java
+C:\Users\Leonardo\Desktop\aplication divida\debt-manager-api\src\main\java\com\leonardo\debt_manager_api\DebtManagerApiApplication.java
+C:\Users\Leonardo\Desktop\aplication divida\debt-manager-api\src\main\java\com\leonardo\debt_manager_api\dto\DividaRequestDTO.java
+C:\Users\Leonardo\Desktop\aplication divida\debt-manager-api\src\main\java\com\leonardo\debt_manager_api\dto\DividaResponseDTO.java
+C:\Users\Leonardo\Desktop\aplication divida\debt-manager-api\src\main\java\com\leonardo\debt_manager_api\exceptions\ErroValidacaoDTO.java
+C:\Users\Leonardo\Desktop\aplication divida\debt-manager-api\src\main\java\com\leonardo\debt_manager_api\exceptions\GlobalExceptionHandler.java
+C:\Users\Leonardo\Desktop\aplication divida\debt-manager-api\src\main\java\com\leonardo\debt_manager_api\model\Divida.java
+C:\Users\Leonardo\Desktop\aplication divida\debt-manager-api\src\main\java\com\leonardo\debt_manager_api\model\Parcela.java
+C:\Users\Leonardo\Desktop\aplication divida\debt-manager-api\src\main\java\com\leonardo\debt_manager_api\model\StatusParcela.java
+C:\Users\Leonardo\Desktop\aplication divida\debt-manager-api\src\main\java\com\leonardo\debt_manager_api\repository\DividaRepository.java
+C:\Users\Leonardo\Desktop\aplication divida\debt-manager-api\src\main\java\com\leonardo\debt_manager_api\repository\ParcelaRepository.java
+C:\Users\Leonardo\Desktop\aplication divida\debt-manager-api\src\main\java\com\leonardo\debt_manager_api\service\DividaService.java
