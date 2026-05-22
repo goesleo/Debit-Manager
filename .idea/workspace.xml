@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0203d614-1cbc-4505-96f8-92221d1dc29e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/controller/ParcelaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/dto/ParcelaResponseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/service/ParcelaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/controller/DividaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/controller/DividaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/dto/DividaRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/dto/DividaRequestDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/dto/DividaResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/dto/DividaResponseDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/exceptions/ErroValidacaoDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/exceptions/ErroValidacaoDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/exceptions/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/exceptions/GlobalExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/model/Divida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/model/Divida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/model/Parcela.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/model/Parcela.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/model/StatusParcela.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/model/StatusParcela.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/repository/DividaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/repository/DividaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/repository/ParcelaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/repository/ParcelaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/service/DividaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leonardo/debt_manager_api/service/DividaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="29" />
+    <option name="cachedIndexableFilesCount" value="37" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,10 +31,10 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/resources/application.yml" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -125,6 +112,8 @@
       <workItem from="1779336259775" duration="339000" />
       <workItem from="1779337059332" duration="415000" />
       <workItem from="1779338736561" duration="6183000" />
+      <workItem from="1779345661711" duration="185000" />
+      <workItem from="1779405072915" duration="1270000" />
     </task>
     <servers />
   </component>
